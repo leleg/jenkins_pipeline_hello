@@ -9,3 +9,4 @@ node {
       echo 'Its been a while'
    stage 'Stage 2'
       echo 'Feels like forever'
+}
