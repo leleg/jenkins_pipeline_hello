@@ -8,6 +8,6 @@ node {
 node {
    stage 'tres'
       echo 'Its been a while'
-   stage 'Stage 2'
+   stage 'Quattro'
       echo 'Feels like forever'
 }
