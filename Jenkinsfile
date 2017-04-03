@@ -1,12 +1,12 @@
 node {
-   stage 'Stage 1'
+   stage 'uno'
    		echo 'Hello  my friend'
    
-   stage 'Stage 2'
+   stage 'des'
    		echo 'We meet again'
 }
 node {
-   stage 'Stage 1'
+   stage 'tres'
       echo 'Its been a while'
    stage 'Stage 2'
       echo 'Feels like forever'
