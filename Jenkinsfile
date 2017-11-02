@@ -3,7 +3,7 @@ node {
    		echo 'Hello  my friend'
    
    stage 'des'
-   		echo 'We meet again'
+   		echo 'We meet again or not'
 }
 node {
    stage 'tres'
